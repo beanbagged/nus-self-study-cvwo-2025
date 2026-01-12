@@ -61,6 +61,8 @@ erDiagram
 
 **Data-base:** SQLite
 
+**API:** RESTful
+
 ### Features
 
 Clear relationship within the model, simple UI/UX design to make it easily navigable, 
