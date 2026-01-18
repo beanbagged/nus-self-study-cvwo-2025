@@ -65,4 +65,8 @@ erDiagram
 
 ### Features
 
-Clear relationship within the model, simple UI/UX design to make it easily navigable, 
+Clear relationship between topic, post and comments within the model.
+
+Simple UI/UX design to make the forum easily navigable.
+
+Requires Authentication in the form of a username to keep track of forum activity.

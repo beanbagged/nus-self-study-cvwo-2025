@@ -10,7 +10,7 @@ CREATE TABLE topics (
     description TEXT,
     user_id INTEGER NOT NULL REFERENCES users(id),
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP
+    updated_at TIMESTAMP 
 );
 
 CREATE TABLE posts (
